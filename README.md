@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi 👋 I'm Shri Viswath C K
 
-<!--
-**shriviswath/shriviswath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+🤖 Robotics & Embedded Systems Enthusiast  
+⚙️ Passionate about building smart systems and real-world projects  
 
-Here are some ideas to get you started:
+🚀 About Me
+- 🔧 Working on Robotics and Control Systems  
+- 💻 Skilled in C, Python, MATLAB & Embedded Programming  
+- ⚡ Interested in Automation, IoT and Mechatronics  
+- 🌱 Always learning and building new projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+STM32 • ESP32 • RP2040 • Arduino • MATLAB • GitHub  
+
+📌 Current Focus
+🎯 Twin Rotor MIMO System (TRMS)  
+🌾 Smart Irrigation System  
+🏭 Industrial Automation Projects  
+
+📫 Connect With Me  
+- Email: shriviswath@gmail.com  
+
+⭐ Building the future, one project at a time.
