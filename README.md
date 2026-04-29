@@ -10,10 +10,11 @@ Hi 👋 I'm Shri Viswath C K
 - ⚡ Interested in Automation,Mechatronics and Control System  
 - 🌱 Always learning and building new projects  
 
-📌 Current Focus
-🎯 Twin Rotor MIMO System (TRMS)  
-🌾 Smart Irrigation System  
-🏭 Industrial Automation Projects  
+📌 Worked Projects
+
+-🎯 Twin Rotor MIMO System (TRMS)  
+-🌾 Smart Irrigation System  
+-🏭 Industrial Automation Projects  
 
 📫 Connect With Me  
 - Email: shriviswath@gmail.com  
