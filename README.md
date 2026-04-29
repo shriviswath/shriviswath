@@ -10,9 +10,6 @@ Hi 👋 I'm Shri Viswath C K
 - ⚡ Interested in Automation,Mechatronics and Control System  
 - 🌱 Always learning and building new projects  
 
-🛠️ Tech Stack
-STM32 • ESP32 • RP2040 • Arduino • MATLAB • GitHub  
-
 📌 Current Focus
 🎯 Twin Rotor MIMO System (TRMS)  
 🌾 Smart Irrigation System  
