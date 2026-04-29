@@ -6,8 +6,8 @@ Hi 👋 I'm Shri Viswath C K
 
 🚀 About Me
 - 🔧 Working on Robotics and Control Systems  
-- 💻 Skilled in C, Python, MATLAB & Embedded Programming  
-- ⚡ Interested in Automation, IoT and Mechatronics  
+- 💻 Skilled in Python, MATLAB & Embedded Programming, IOT
+- ⚡ Interested in Automation,Mechatronics and Control System  
 - 🌱 Always learning and building new projects  
 
 🛠️ Tech Stack
